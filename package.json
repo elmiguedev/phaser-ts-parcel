@@ -9,7 +9,7 @@
   },
   "staticPath": {
     "source": [
-      "/src/assets"
+      "/assets"
     ],
     "target": [
       "/dist/assets"
