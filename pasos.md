@@ -10,11 +10,11 @@
         - core
         - entities
 
-- add copy configuration de estaticos
+- add copy configuration de estaticos (solo assets)
 - agregar script package.json
 
-"start": "parcel src/index.ts",
-    "build": "parcel build src/index.ts"
+"start": "parcel src/index.html",
+ "build": "parcel build src/index.html"
 
     
 
